@@ -18,4 +18,6 @@ Sample Output:<br>
 6.<br><br>
 ![alt text](https://github.com/Karthikeyan2212/VGK-FOOD-RESTAURANT/blob/master/output/s6.PNG?raw=true)
 <br><br>
+
+Sample Output (payment bill.pdf)pdf is in output folder.<br><br>
 Thank You.
