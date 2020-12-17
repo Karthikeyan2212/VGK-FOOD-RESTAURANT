@@ -1,6 +1,6 @@
 # VGK-FOOD-RESTAURANT
 It is a website for ordering the food in online and give the payment bill for customers in online.<br><br>
-Sample Output:
+Sample Output:<br>
 1.<br><br>
 ![alt text](https://github.com/Karthikeyan2212/VGK-FOOD-RESTAURANT/blob/master/output/s1.PNG?raw=true)
 <br><br>
@@ -18,3 +18,4 @@ Sample Output:
 6.<br><br>
 ![alt text](https://github.com/Karthikeyan2212/VGK-FOOD-RESTAURANT/blob/master/output/s6.PNG?raw=true)
 <br><br>
+Thank You.
