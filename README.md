@@ -18,6 +18,9 @@ Sample Output:<br>
 6.My Cart<br><br>
 ![alt text](https://github.com/Karthikeyan2212/VGK-FOOD-RESTAURANT/blob/master/output/s6.PNG?raw=true)
 <br><br>
+7.My Cart<br><br>
+![alt text](https://github.com/Karthikeyan2212/VGK-FOOD-RESTAURANT/blob/master/output/s7.PNG?raw=true)
+<br><br>
 
 Sample Output (payment bill.pdf)pdf is in output folder.<br><br>
 Thank You.
